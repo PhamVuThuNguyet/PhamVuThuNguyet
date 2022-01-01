@@ -1,6 +1,6 @@
 # Hi there, I'm Vu-Thu-Nguyet Pham - aka [Rum] 👋 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Data+Scientist+and+Researcher;Mobile+Application+Developer;Feel+free+to+contact+me+for+cooperation)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Data+Scientist+and+Researcher;Mobile+Application+Developer;Feel+free+to+contact+me+for+cooperation)
 
 [![My Facebook](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/Amber.Rum.306)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phamvuthunguyet)
@@ -51,4 +51,4 @@
 ## My Github Stats
 ![Rum's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhamVuThuNguyet&theme=cobalt2&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamVuThuNguyet&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamVuThuNguyet&langs_count=10&layout=compact)
