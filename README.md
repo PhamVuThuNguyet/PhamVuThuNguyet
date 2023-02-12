@@ -5,7 +5,7 @@
 [![My Facebook](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/Amber.Rum.306)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phamvuthunguyet)
 [![My Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white)](https://nguyetpvt.tumblr.com/)
-## I'm a Fresher Data Scientist, a Developer, a Freelancer, and a Free-Time Blogger 🥲!!
+## I'm a Junior Research Engineer, a Data Scientist, a Developer, a Freelancer, and a Free-Time Blogger 🥲!!
 
 - 🔭 I’m currently learning everything 🤣
 - 💻 Actually, I'm interested in data science the most !!
