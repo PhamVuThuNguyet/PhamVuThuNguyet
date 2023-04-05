@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently learning everything 🤣
 - 💻 Actually, I'm interested in data science the most !!
-- 📑 I’m always open to freelance jobs
 - ⚡ Fun fact: Besides coding, I love to create blog posts, write music, and play guitar / piano 🎧
 
 ## My Skills:
