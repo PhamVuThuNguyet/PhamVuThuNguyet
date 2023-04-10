@@ -48,6 +48,6 @@
 
 
 ## My Github Stats
-![Rum's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhamVuThuNguyet&theme=cobalt2&show_icons=true&include_all_commits=true)
+![Rum's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhamVuThuNguyet&show_icons=true&count_private=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamVuThuNguyet&langs_count=10&layout=compact)
