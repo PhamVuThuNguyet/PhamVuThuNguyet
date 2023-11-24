@@ -1,15 +1,16 @@
 # Hi there, I'm Vu-Thu-Nguyet Pham - aka [Rum] 👋 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Data+Scientist+and+Researcher;Mobile+Application+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Hightech+Research+Engineer;Applied+Scientist;Full-stack+Developer;Freelancer;Contact+Me+If+You+Want+To+Work+Together)
 
 [![My Facebook](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/Amber.Rum.306)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phamvuthunguyet)
 [![My Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white)](https://nguyetpvt.tumblr.com/)
-## I'm a Junior Research Engineer, a Data Scientist, a Developer, and a Free-Time Blogger 🥲!!
+## I'm a Hightech Research Engineer, an Applied Scientist, a Full-stack Developer, and a Free-Time Blogger 🥲!!
 
 - 🔭 I’m currently learning everything 🤣
 - 💻 Actually, I'm interested in data science the most !!
 - ⚡ Fun fact: Besides coding, I love to create blog posts, write music, and play guitar / piano 🎧
+- 🤙 Contact me if you want to work together
 
 ## My Skills:
 
