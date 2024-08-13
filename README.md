@@ -12,6 +12,13 @@
 - ⚡ Fun fact: Besides coding, I love to create blog posts, write music, and play guitar / piano 🎧
 - 🤙 Contact me if you want to work together
 
+## My Last Badges 🎖️
+
+[![Professional Agile Leadership](https://images.credly.com/size/160x160/images/78c772ee-6b3c-4348-ac66-58ac5a2cf581/image.png)](https://www.credly.com/badges/934a45c3-f6de-4cd6-820d-9aaa937a2413)
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/37cd97e5-7800-4588-9de6-2de0f92261fe)
+[![Google Project Management](https://images.credly.com/size/160x160/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png)](https://www.credly.com/badges/e7942dc8-4b3a-429d-b173-976373f6af31)
+<a href="https://www.credly.com/badges/3408ef1a-a433-4ada-807a-44c7359dfb34"><img src="https://github.com/user-attachments/assets/90a06d27-b6db-4fde-8270-5d3f077d4ed9" width="160"></a>
+
 ## My Skills:
 
 <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src = "https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"> <img src = "https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
@@ -51,4 +58,4 @@
 ## My Github Stats
 ![Rum's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhamVuThuNguyet&show_icons=true&count_private=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamVuThuNguyet&langs_count=10&layout=compact)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=PhamVuThuNguyet&theme=dark) -->
