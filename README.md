@@ -1,6 +1,6 @@
 # Hi there, I'm Vu-Thu-Nguyet Pham - aka [Rum] 👋 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Hightech+Research+Engineer;Applied+Scientist;Full-stack+Developer;Freelancer;Contact+Me+If+You+Want+To+Work+Together)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=PhD+Candidate+in+Computer+Science;Hightech+Research+Engineer;Applied+Scientist;Freelancer;Contact+Me+If+You+Want+To+Work+Together)
 
 [![My Facebook](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/Amber.Rum.306)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phamvuthunguyet)
