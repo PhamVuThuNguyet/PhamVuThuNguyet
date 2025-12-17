@@ -14,7 +14,7 @@
 
 ## My Last Badges 🎖️
 
-[![PMI Practical Application of Gen AI for Project Managers](https://images.credly.com/size/160x160/images/753cddc1-8e17-407c-bba3-a0704da6f26a/blob)]([https://github.com/user-attachments/assets/72d185b5-484f-4a4d-a2f2-355f5cc295ef](https://www.credly.com/badges/06f1b463-182e-4b6c-b7db-ce9082699458))
+[![PMI Practical Application of Gen AI for Project Managers]([https://images.credly.com/size/160x160/images/753cddc1-8e17-407c-bba3-a0704da6f26a/blob](https://github.com/user-attachments/assets/72d185b5-484f-4a4d-a2f2-355f5cc295ef))]([https://github.com/user-attachments/assets/72d185b5-484f-4a4d-a2f2-355f5cc295ef](https://www.credly.com/badges/06f1b463-182e-4b6c-b7db-ce9082699458))
 [![Professional Agile Leadership](https://images.credly.com/size/160x160/images/78c772ee-6b3c-4348-ac66-58ac5a2cf581/image.png)](https://www.credly.com/badges/934a45c3-f6de-4cd6-820d-9aaa937a2413)
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/37cd97e5-7800-4588-9de6-2de0f92261fe)
 [![Google Project Management](https://images.credly.com/size/160x160/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png)](https://www.credly.com/badges/e7942dc8-4b3a-429d-b173-976373f6af31)
