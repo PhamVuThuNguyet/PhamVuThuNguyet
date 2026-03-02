@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=PhD+Candidate+in+Computer+Science;Hightech+Research+Engineer;Applied+Scientist;Freelancer;Contact+Me+If+You+Want+To+Work+Together)
 
-[![My Facebook](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/Amber.Rum.306)
+[![My Facebook](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/pvtnguyet)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phamvuthunguyet)
 [![My Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white)](https://nguyetpvt.tumblr.com/)
 ## I'm currently a PhD Candidate, a Hightech Research Engineer, an Applied Scientist, and a Free-Time Blogger 🥲!!
@@ -63,6 +63,8 @@
 
 
 ## My Github Stats
-![Rum's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhamVuThuNguyet&show_icons=true&count_private=true&theme=tokyonight)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=PhamVuThuNguyet&theme=dark) -->
